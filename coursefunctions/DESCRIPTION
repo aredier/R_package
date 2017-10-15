@@ -1,0 +1,15 @@
+Package: coursefunctions
+Type: Package
+Title: package that provides the four main functions viewed in the course (improved)
+Version: 0.1.0
+Author: Antoine Redier 
+Maintainer: Antoine Redier <antoine.redier2@gmail.com>
+Description: the four interesting functions we built during the course improved with some assertions
+    The save_as_csv, 
+    The my_csv_reader 
+    The multi_excel
+    The draw_names 
+    The draw_a_name
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
