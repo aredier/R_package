@@ -7,5 +7,7 @@ r package with the function viewed in the course :
     the xlsx_reader function will read all the sheets of an excel file and retrun a list of data frames (one per sheet in the file).
 
 the package's source files are in the coursefunction folder
+the coursefunctions_0.1.0.tgz is a binary build of the package 
+the coursefunctions_0.1.0.tar.gz is a build of the source files of the package
 
 see DESCRIPTION or ?function for more info 
